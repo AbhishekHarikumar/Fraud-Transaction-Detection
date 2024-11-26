@@ -28,5 +28,6 @@ ineuron.ai
 - Install required dependencies
 - Execute and get the pkl file
 - Feed the pkl top the api for prediction
+- Set up airflow for continous training as per schedule
 
 <h2 align = "left">Demo</h2>
