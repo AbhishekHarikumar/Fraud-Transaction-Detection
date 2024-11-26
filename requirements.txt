@@ -1,0 +1,6 @@
+scikit-learn
+pandas
+pymongo
+fastapi
+uvicorn
+xgboost==2.1.2
